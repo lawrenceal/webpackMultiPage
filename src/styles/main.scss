@@ -1,0 +1,14 @@
+h1{
+  color: aquamarine;
+  font-size: 26px;
+  background: url("../images/test1.jpg") no-repeat center;
+}
+
+.wrap{
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  background: url("../images/banner-desc.png") red no-repeat center;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
